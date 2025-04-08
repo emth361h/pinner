@@ -14,17 +14,17 @@ https://discord.com/oauth2/authorize?client_id=1084274595114266624&permissions=2
 > * Pin the text above the command  
 > `!!pin`  
  
-> * Pin the specified message id
-> `!!pin 1359041166548402301` 
+> * Pin the specified message id  
+> `!!pin 1359041166548402301`   
 
-> * Pin the specified message link
-> `!!pin https://discord.com/channels/xxxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxx/1359041166548402301`
+> * Pin the specified message link  
+> `!!pin https://discord.com/channels/xxxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxx/1359041166548402301`  
 
-> * Unpin the specified message id
-> `!!unpin 1359041166548402301`
+> * Unpin the specified message id  
+> `!!unpin 1359041166548402301`  
 
-> * Unpin the specified message link
-> `!!unpin https://discord.com/channels/xxxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxx/1359041166548402301`
+> * Unpin the specified message link  
+> `!!unpin https://discord.com/channels/xxxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxx/1359041166548402301`  
 
 ## setup 
 After cloning, open `main.py` file and edit the bot's token. 
